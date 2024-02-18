@@ -1,0 +1,2 @@
+Prefix plugins/LLE/example/
+Plugin LLE inputfile digits.csv outputfile none
